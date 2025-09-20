@@ -183,11 +183,17 @@ int main() {
 }
 ```
 
-Compila y ejecuta con:
+Primero debes compilar el programa en C, como ya hemos visto anteriormente:
 
 ```bash
 gcc bucle.c -o bucle.exe
-chcp 65001
+```
+
+Después ejecuta ambos programas:
+
+```bash
+python bucle.py
+
 bucle.exe
 ```
 
