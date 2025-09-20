@@ -8,7 +8,7 @@
 
 - [Versión Windows](versionWindows.md)  
 - [Versión macOS](versionMac.md)  
-- [Versión Ubuntu](versionLinux.md)  
+- [Versión Linux](versionLinux.md)  
 
 👉 Selecciona la guía correspondiente a tu sistema operativo y sigue los pasos para realizar la práctica.
 
