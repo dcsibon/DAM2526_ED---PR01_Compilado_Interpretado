@@ -5,6 +5,8 @@
 
 ## 🔹 Preparación del entorno en macOS
 
+Antes de comenzar las prácticas, instala lo necesario en tu ordenador:
+
 ### 1. Crear carpeta de trabajo
 
 Antes de comenzar, crea una carpeta dentro de tu **home** (carpeta personal) para organizar todos tus proyectos.
