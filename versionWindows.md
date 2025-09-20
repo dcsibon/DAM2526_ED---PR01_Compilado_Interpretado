@@ -1,7 +1,5 @@
 # 📘 Práctica ED01 – Lenguajes compilados e interpretados en acción
 
-📌 **Objetivo:** comprobar la diferencia entre ejecutar un programa interpretado (Python) y uno compilado (C), editando primero con un editor simple.
-
 ---
 
 ## 🔹 Preparación del entorno en Windows
