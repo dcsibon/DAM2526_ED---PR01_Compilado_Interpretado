@@ -1,4 +1,4 @@
-# 📘 Práctica ED01 – Lenguajes compilados e interpretados en acción
+# 📘 Práctica ED01 – Lenguajes compilados e interpretados en acción (versión Windows)
 
 ---
 
@@ -6,7 +6,28 @@
 
 Antes de comenzar las prácticas, instala lo necesario en tu ordenador:
 
-### 1. Editor simple recomendado
+### 1. Crear carpeta de trabajo
+
+Para mantener el código organizado y separado de otros archivos del sistema, crearemos una carpeta en tu usuario de Windows. 
+
+Vamos a hacerlo desde la terminal de Windows y así practicáis un poco el manejo de algunos comandos. Aunque también es posible hacer lo mismo desde el `Explorador de archivos`.
+
+1. Abre el **CMD** (tecla `Win + R`, escribe `cmd`, pulsa Intro).
+2. Ejecuta estos comandos:
+
+   ```cmd
+   cd %USERPROFILE%
+   mkdir MisProyectos
+   cd MisProyectos
+   ```
+
+3. A partir de ahora, guarda aquí todos los programas de la práctica.
+
+📌 **Nota importante:**
+No es recomendable guardar ni ejecutar código en **Descargas, Documentos o Escritorio**, porque pueden acumularse muchos ficheros y desorganizar el trabajo.
+Tener `MisProyectos` en tu carpeta personal hace que todo el código esté ordenado en un solo sitio.
+
+### 2. Editor simple recomendado
 
 * **Bloc de notas** (incluido en Windows) o
 * **Notepad++** 👉 [https://notepad-plus-plus.org/downloads/](https://notepad-plus-plus.org/downloads/)
