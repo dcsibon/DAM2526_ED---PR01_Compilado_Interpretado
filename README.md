@@ -10,6 +10,13 @@
 - [Versión macOS](versionMac.md)  
 - [Versión Ubuntu](versionLinux.md)  
 
+👉 Selecciona la guía correspondiente a tu sistema operativo y sigue los pasos para realizar la práctica.
+
 ---
 
-👉 Selecciona la guía correspondiente a tu sistema operativo y sigue los pasos para realizar la práctica.
+📌 **Entrega**:
+
+* Entrega un documento con:
+
+  * Capturas de pantalla de las ejecuciones, con y sin errores.
+  * Respuestas a las reflexiones.
