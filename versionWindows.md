@@ -218,13 +218,3 @@ bucle.exe
 
 3. Haz una captura de los tiempos medidos en Python y en C.
 4. Reflexiona: ¿qué lenguaje tardó más? ¿por qué crees que ocurre?
-
----
-
-📌 **Entrega**:
-
-* Entrega un documento con:
-
-  * Capturas de pantalla de las ejecuciones, con y sin errores.
-  * Respuestas a las reflexiones.
-
